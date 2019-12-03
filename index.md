@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.paris2024.org/fr/nous-rejoindre/?valeurform=onyest&category=7724) and ![Image](src)
+
 
 
 ```
@@ -31,6 +31,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
+[Link](https://www.paris2024.org/fr/nous-rejoindre/?valeurform=onyest&category=7724) and ![Image](src)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yayadelpy/yayadelpy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
